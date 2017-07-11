@@ -14,4 +14,5 @@ install:
 script:
 - python 1.py
 - python down.py
--python route.py
+- python route.py
+- python os.py
