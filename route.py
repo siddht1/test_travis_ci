@@ -10,7 +10,7 @@ print(" \n Seosh now has 1GB or ipv1048576 ")
 print(" \n Seosh is launching 2GB ,4Gb and 8GB simultaneously which this software can handle")
 print(" \n Enter the mode you want 1 for ipv4 to ipv1048576,2 for ipv4 to ipv2097152,3 for ipv4 to ipv4194304,4 for ipv4 to ipv8388608 (testing) ")
 #_option_=input("\n  : ")
-_option=4
+_option_=4
 
 #4,6,8,16,32,64,128,256,512,1024,2048
 #131072    262144
