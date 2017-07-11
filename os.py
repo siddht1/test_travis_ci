@@ -12,5 +12,4 @@ elif platform == "win32":
 	print"windows 32 bits enviroment"
 else:
    print "cannot identify"
-    # Windows...
-print (sys.version)    
+    # Windows...  
