@@ -18,4 +18,5 @@ script:
 - python down.py
 - python route.py
 - python os.py
+- python host.py
 
