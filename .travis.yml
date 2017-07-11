@@ -1,5 +1,5 @@
 language: python
-language: php
+
 python:
   - "2.6"
   - "2.7"
@@ -8,10 +8,7 @@ python:
   - "3.4"
   - "3.5"
   - "3.6"
-php:
-  - "5.0"
-  - "7.0"
-  
+
 
 install:
 - true # use this to skip the install step or add any commands required to install your project dependencies
@@ -21,4 +18,4 @@ script:
 - python down.py
 - python route.py
 - python os.py
-- php check.php
+
