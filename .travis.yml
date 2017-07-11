@@ -1,5 +1,5 @@
 language: python
-language:php
+language: php
 python:
   - "2.6"
   - "2.7"
