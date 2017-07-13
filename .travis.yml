@@ -19,4 +19,5 @@ script:
 - python route.py
 - python os.py
 - python host.py
+- python fork.py
 
